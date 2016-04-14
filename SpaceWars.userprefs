@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="SpaceWars.CSharp.Plugins.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Player\Weapon\PlayerWeaponBehaviour.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Player\Weapon\PlayerWeaponBehaviour.cs" Line="23" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

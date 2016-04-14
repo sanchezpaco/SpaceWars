@@ -1,0 +1,1307 @@
+fileFormatVersion: 2
+guid: 94eecf90c4a23b24fab7a9be580e6920
+timeCreated: 1458261263
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UpgradeWeapon_0
+    21300002: UpgradeWeapon_1
+    21300004: UpgradeWeapon_2
+    21300006: UpgradeWeapon_3
+    21300008: UpgradeWeapon_4
+    21300010: UpgradeWeapon_5
+    21300012: UpgradeWeapon_6
+    21300014: UpgradeWeapon_7
+    21300016: UpgradeWeapon_8
+    21300018: UpgradeWeapon_9
+    21300020: UpgradeWeapon_10
+    21300022: UpgradeWeapon_11
+    21300024: UpgradeWeapon_12
+    21300026: UpgradeWeapon_13
+    21300028: UpgradeWeapon_14
+    21300030: UpgradeWeapon_15
+    21300032: UpgradeWeapon_16
+    21300034: UpgradeWeapon_17
+    21300036: UpgradeWeapon_18
+    21300038: UpgradeWeapon_19
+    21300040: UpgradeWeapon_20
+    21300042: UpgradeWeapon_21
+    21300044: UpgradeWeapon_22
+    21300046: UpgradeWeapon_23
+    21300048: UpgradeWeapon_24
+    21300050: UpgradeWeapon_25
+    21300052: UpgradeWeapon_26
+    21300054: UpgradeWeapon_27
+    21300056: UpgradeWeapon_28
+    21300058: UpgradeWeapon_29
+    21300060: UpgradeWeapon_30
+    21300062: UpgradeWeapon_31
+    21300064: UpgradeWeapon_32
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: UpgradeWeapon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 30}
+        - {x: -15, y: 1}
+        - {x: -18, y: -2}
+        - {x: -15, y: 1}
+        - {x: -15, y: 20}
+        - {x: -17, y: 22}
+        - {x: -21, y: 24}
+        - {x: -28, y: 11}
+        - {x: -31, y: 2}
+        - {x: -31, y: -31}
+        - {x: -7, y: -31}
+        - {x: -3, y: -25}
+        - {x: -3, y: 30}
+      - - {x: 21, y: 23}
+        - {x: 17, y: 22}
+        - {x: 15, y: 20}
+        - {x: 15, y: 2}
+        - {x: 17, y: 0}
+        - {x: 15, y: 1}
+        - {x: 15, y: 11}
+        - {x: 10, y: 30}
+        - {x: 3, y: 30}
+        - {x: 3, y: -31}
+        - {x: 31, y: -31}
+        - {x: 31, y: -1}
+        - {x: 29, y: 12}
+      - - {x: -6, y: 6}
+        - {x: -6, y: -4}
+        - {x: -5, y: -6}
+        - {x: 6, y: -6}
+        - {x: 6, y: 6}
+    - name: UpgradeWeapon_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 31}
+        - {x: -31, y: -31}
+        - {x: -8, y: -31}
+        - {x: -3, y: -27}
+        - {x: -3, y: 31}
+      - - {x: 31, y: 5}
+        - {x: 21, y: 25}
+        - {x: 17, y: 24}
+        - {x: 15, y: 22}
+        - {x: 15, y: 3}
+        - {x: 15, y: 13}
+        - {x: 10, y: 29}
+        - {x: 8, y: 31}
+        - {x: 3, y: 31}
+        - {x: 3, y: -24}
+        - {x: 4, y: -29}
+        - {x: 8, y: -31}
+        - {x: 31, y: -31}
+      - - {x: -6, y: 8}
+        - {x: -6, y: -2}
+        - {x: -5, y: -4}
+        - {x: 6, y: -4}
+        - {x: 6, y: 8}
+    - name: UpgradeWeapon_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 31}
+        - {x: -31, y: 14}
+        - {x: -31, y: -30}
+        - {x: -10, y: -30}
+        - {x: -3, y: -27}
+        - {x: -3, y: 31}
+      - - {x: 21, y: 27}
+        - {x: 17, y: 26}
+        - {x: 15, y: 24}
+        - {x: 10, y: 31}
+        - {x: 4, y: 31}
+        - {x: 4, y: -22}
+        - {x: 6, y: -24}
+        - {x: 31, y: -26}
+        - {x: 31, y: 3}
+        - {x: 27, y: 15}
+      - - {x: -6, y: 10}
+        - {x: -6, y: 0}
+        - {x: -5, y: -2}
+        - {x: 6, y: -2}
+        - {x: 6, y: 10}
+    - name: UpgradeWeapon_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 31}
+        - {x: -25, y: -28}
+        - {x: -7, y: -28}
+        - {x: -3, y: -24}
+        - {x: -3, y: 31}
+      - - {x: 31, y: -28}
+        - {x: 31, y: 7}
+        - {x: 27, y: 17}
+        - {x: 21, y: 29}
+        - {x: 18, y: 28}
+        - {x: 15, y: 25}
+        - {x: 10, y: 31}
+        - {x: 4, y: 31}
+        - {x: 4, y: -20}
+        - {x: 6, y: -22}
+        - {x: 24, y: -28}
+        - {x: 24, y: -24}
+        - {x: 30, y: -28}
+      - - {x: -29, y: 0}
+        - {x: -31, y: -2}
+        - {x: -31, y: -24}
+        - {x: -29, y: -26}
+        - {x: -27, y: -26}
+        - {x: -25, y: -24}
+        - {x: -25, y: -2}
+        - {x: -27, y: 0}
+      - - {x: -6, y: 12}
+        - {x: -6, y: 0}
+        - {x: 7, y: 0}
+        - {x: 7, y: 11}
+        - {x: 6, y: 12}
+    - name: UpgradeWeapon_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 31}
+        - {x: -28, y: 19}
+        - {x: -31, y: 0}
+        - {x: -31, y: -26}
+        - {x: -11, y: -26}
+        - {x: -3, y: -6}
+        - {x: -3, y: 31}
+      - - {x: 31, y: -26}
+        - {x: 31, y: 9}
+        - {x: 27, y: 19}
+        - {x: 21, y: 31}
+        - {x: 20, y: 31}
+        - {x: 18, y: 30}
+        - {x: 15, y: 27}
+        - {x: 11, y: 31}
+        - {x: 4, y: 31}
+        - {x: 4, y: -2}
+        - {x: 11, y: -26}
+        - {x: 24, y: -26}
+        - {x: 24, y: -22}
+        - {x: 30, y: -26}
+      - - {x: -10, y: -20}
+        - {x: -3, y: -20}
+        - {x: -3, y: -4}
+        - {x: -5, y: -1}
+        - {x: -7, y: -1}
+        - {x: -10, y: -2}
+      - - {x: 4, y: -1}
+        - {x: 4, y: -20}
+        - {x: 10, y: -20}
+        - {x: 10, y: -1}
+      - - {x: 6, y: 14}
+        - {x: -6, y: 14}
+        - {x: -6, y: 1}
+        - {x: 4, y: 1}
+        - {x: 7, y: 3}
+        - {x: 7, y: 12}
+    - name: UpgradeWeapon_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 31}
+        - {x: -31, y: 24}
+        - {x: -31, y: -24}
+        - {x: -8, y: -24}
+        - {x: -3, y: 11}
+        - {x: -3, y: 31}
+      - - {x: 31, y: -24}
+        - {x: 31, y: 13}
+        - {x: 24, y: 31}
+        - {x: 16, y: 31}
+        - {x: 15, y: 29}
+        - {x: 15, y: 11}
+        - {x: 14, y: 21}
+        - {x: 11, y: 31}
+        - {x: 4, y: 31}
+        - {x: 4, y: 12}
+        - {x: 11, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: -20}
+        - {x: 30, y: -24}
+      - - {x: -10, y: -18}
+        - {x: -3, y: -18}
+        - {x: -3, y: -2}
+        - {x: -4, y: 0}
+        - {x: -10, y: 0}
+      - - {x: 4, y: 0}
+        - {x: 4, y: -18}
+        - {x: 8, y: -18}
+        - {x: 11, y: -17}
+        - {x: 11, y: 0}
+      - - {x: -6, y: 16}
+        - {x: -6, y: 3}
+        - {x: 6, y: 3}
+        - {x: 7, y: 5}
+        - {x: 7, y: 16}
+    - name: UpgradeWeapon_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 31}
+        - {x: -31, y: 15}
+        - {x: -31, y: -21}
+        - {x: -28, y: -22}
+        - {x: -12, y: -22}
+        - {x: -10, y: -21}
+        - {x: -3, y: -15}
+        - {x: -3, y: 31}
+      - - {x: 23, y: 31}
+        - {x: 15, y: 31}
+        - {x: 15, y: 14}
+        - {x: 17, y: 11}
+        - {x: 16, y: 12}
+        - {x: 14, y: 12}
+        - {x: 14, y: 22}
+        - {x: 13, y: 24}
+        - {x: 11, y: 31}
+        - {x: 4, y: 31}
+        - {x: 4, y: -21}
+        - {x: 7, y: -22}
+        - {x: 31, y: -22}
+        - {x: 31, y: 18}
+        - {x: 29, y: 24}
+      - - {x: -6, y: 18}
+        - {x: -6, y: 5}
+        - {x: 6, y: 5}
+        - {x: 7, y: 7}
+        - {x: 7, y: 18}
+    - name: UpgradeWeapon_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 31}
+        - {x: -16, y: 24}
+        - {x: -17, y: 13}
+        - {x: -17, y: -20}
+        - {x: -12, y: -20}
+        - {x: -3, y: -15}
+        - {x: -3, y: 31}
+      - - {x: 15, y: 31}
+        - {x: 15, y: 16}
+        - {x: 17, y: 13}
+        - {x: 17, y: 14}
+        - {x: 15, y: 15}
+        - {x: 15, y: 29}
+        - {x: 12, y: 31}
+        - {x: 4, y: 31}
+        - {x: 4, y: -19}
+        - {x: 7, y: -20}
+        - {x: 31, y: -20}
+        - {x: 31, y: 18}
+        - {x: 25, y: 31}
+      - - {x: -15, y: 31}
+        - {x: -21, y: 31}
+        - {x: -25, y: 24}
+        - {x: -31, y: 6}
+        - {x: -31, y: -17}
+        - {x: -29, y: -18}
+        - {x: -18, y: -18}
+        - {x: -16, y: -17}
+        - {x: -15, y: 15}
+      - - {x: -6, y: 20}
+        - {x: -6, y: 7}
+        - {x: 7, y: 7}
+        - {x: 7, y: 20}
+    - name: UpgradeWeapon_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 31}
+        - {x: -14, y: 25}
+        - {x: -14, y: 16}
+        - {x: -17, y: 15}
+        - {x: -15, y: 17}
+        - {x: -15, y: 31}
+        - {x: -25, y: 31}
+        - {x: -31, y: 17}
+        - {x: -31, y: -14}
+        - {x: -29, y: -18}
+        - {x: -3, y: -18}
+        - {x: -3, y: 31}
+      - - {x: 31, y: 18}
+        - {x: 25, y: 31}
+        - {x: 16, y: 31}
+        - {x: 16, y: 17}
+        - {x: 17, y: 15}
+        - {x: 17, y: 16}
+        - {x: 15, y: 17}
+        - {x: 15, y: 26}
+        - {x: 12, y: 31}
+        - {x: 4, y: 31}
+        - {x: 4, y: -13}
+        - {x: 14, y: -18}
+        - {x: 20, y: -18}
+        - {x: 26, y: -16}
+        - {x: 31, y: -16}
+      - - {x: -6, y: 22}
+        - {x: -6, y: 9}
+        - {x: 7, y: 9}
+        - {x: 7, y: 22}
+    - name: UpgradeWeapon_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 31}
+        - {x: -25, y: 28}
+        - {x: -31, y: 10}
+        - {x: -31, y: -12}
+        - {x: -29, y: -14}
+        - {x: -28, y: -16}
+        - {x: -8, y: -16}
+        - {x: -3, y: -14}
+        - {x: -3, y: 31}
+      - - {x: 16, y: 31}
+        - {x: 16, y: 19}
+        - {x: 17, y: 17}
+        - {x: 17, y: 18}
+        - {x: 15, y: 19}
+        - {x: 15, y: 28}
+        - {x: 12, y: 31}
+        - {x: 4, y: 31}
+        - {x: 4, y: -16}
+        - {x: 31, y: -16}
+        - {x: 31, y: 21}
+        - {x: 25, y: 31}
+      - - {x: -6, y: 24}
+        - {x: -6, y: 11}
+        - {x: 7, y: 11}
+        - {x: 7, y: 24}
+    - name: UpgradeWeapon_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 31}
+        - {x: -31, y: 13}
+        - {x: -31, y: -12}
+        - {x: -26, y: -12}
+        - {x: -22, y: -14}
+        - {x: -10, y: -14}
+        - {x: -3, y: -10}
+        - {x: -3, y: 31}
+      - - {x: 25, y: 31}
+        - {x: 16, y: 31}
+        - {x: 16, y: 21}
+        - {x: 18, y: 19}
+        - {x: 17, y: 20}
+        - {x: 15, y: 21}
+        - {x: 15, y: 29}
+        - {x: 14, y: 31}
+        - {x: 4, y: 31}
+        - {x: 4, y: -8}
+        - {x: 6, y: -8}
+        - {x: 31, y: -11}
+        - {x: 31, y: 18}
+        - {x: 27, y: 30}
+      - - {x: -5, y: 26}
+        - {x: -6, y: 24}
+        - {x: -6, y: 13}
+        - {x: 7, y: 13}
+        - {x: 7, y: 26}
+    - name: UpgradeWeapon_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 31}
+        - {x: -31, y: 26}
+        - {x: -31, y: -8}
+        - {x: -29, y: -10}
+        - {x: -25, y: -11}
+        - {x: -23, y: -12}
+        - {x: -9, y: -12}
+        - {x: -7, y: 7}
+        - {x: -7, y: 31}
+      - - {x: 7, y: 31}
+        - {x: 4, y: 20}
+        - {x: 4, y: -5}
+        - {x: 5, y: -8}
+        - {x: 29, y: -12}
+        - {x: 31, y: -12}
+        - {x: 31, y: 22}
+        - {x: 27, y: 31}
+      - - {x: -8, y: -6}
+        - {x: -3, y: -6}
+        - {x: -3, y: 12}
+        - {x: -9, y: 12}
+        - {x: -9, y: -4}
+      - - {x: -5, y: 28}
+        - {x: -6, y: 26}
+        - {x: -6, y: 15}
+        - {x: 7, y: 15}
+        - {x: 7, y: 28}
+    - name: UpgradeWeapon_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 31}
+        - {x: -31, y: 16}
+        - {x: -31, y: -6}
+        - {x: -27, y: -10}
+        - {x: -7, y: -10}
+        - {x: -7, y: 31}
+      - - {x: 7, y: 31}
+        - {x: 4, y: 28}
+        - {x: 4, y: -5}
+        - {x: 5, y: -6}
+        - {x: 31, y: -7}
+        - {x: 31, y: 22}
+        - {x: 26, y: 31}
+      - - {x: -8, y: -4}
+        - {x: -3, y: -4}
+        - {x: -3, y: 14}
+        - {x: -9, y: 14}
+        - {x: -9, y: -2}
+      - - {x: -5, y: 30}
+        - {x: -6, y: 29}
+        - {x: -6, y: 17}
+        - {x: 7, y: 17}
+        - {x: 7, y: 30}
+    - name: UpgradeWeapon_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 31}
+        - {x: -31, y: 27}
+        - {x: -31, y: -4}
+        - {x: -29, y: -6}
+        - {x: -26, y: -6}
+        - {x: -23, y: -8}
+        - {x: -11, y: -8}
+        - {x: -10, y: -6}
+        - {x: -6, y: 18}
+        - {x: -6, y: 31}
+      - - {x: 7, y: 31}
+        - {x: 4, y: 27}
+        - {x: 4, y: -3}
+        - {x: 5, y: -4}
+        - {x: 31, y: -5}
+        - {x: 31, y: 30}
+        - {x: 30, y: 31}
+      - - {x: -8, y: -2}
+        - {x: -3, y: -2}
+        - {x: -3, y: 16}
+        - {x: -9, y: 16}
+        - {x: -9, y: 0}
+      - - {x: -5, y: 19}
+        - {x: 7, y: 19}
+        - {x: 7, y: 31}
+        - {x: -5, y: 31}
+    - name: UpgradeWeapon_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 31}
+        - {x: -31, y: 29}
+        - {x: -31, y: -2}
+        - {x: -29, y: -4}
+        - {x: -26, y: -4}
+        - {x: -23, y: -6}
+        - {x: -5, y: -6}
+        - {x: -3, y: -3}
+        - {x: -3, y: 29}
+        - {x: -5, y: 31}
+      - - {x: 7, y: 31}
+        - {x: 4, y: 23}
+        - {x: 4, y: 1}
+        - {x: 5, y: -2}
+        - {x: 31, y: -3}
+        - {x: 31, y: 25}
+        - {x: 27, y: 31}
+      - - {x: -4, y: 21}
+        - {x: 7, y: 21}
+        - {x: 7, y: 31}
+        - {x: -5, y: 31}
+        - {x: -5, y: 23}
+    - name: UpgradeWeapon_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 31}
+        - {x: -31, y: 26}
+        - {x: -31, y: -3}
+        - {x: -26, y: -4}
+        - {x: -5, y: -4}
+        - {x: -2, y: -1}
+        - {x: -2, y: 31}
+      - - {x: 4, y: 31}
+        - {x: 4, y: -4}
+        - {x: 31, y: -4}
+        - {x: 31, y: 31}
+      - - {x: -5, y: 31}
+        - {x: -5, y: 25}
+        - {x: -3, y: 23}
+        - {x: 5, y: 23}
+        - {x: 7, y: 25}
+        - {x: 7, y: 31}
+    - name: UpgradeWeapon_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 31}
+        - {x: -31, y: 26}
+        - {x: -31, y: 2}
+        - {x: -30, y: 0}
+        - {x: -23, y: -2}
+        - {x: -6, y: -2}
+        - {x: -2, y: 1}
+        - {x: -2, y: 31}
+      - - {x: 4, y: 31}
+        - {x: 4, y: -2}
+        - {x: 29, y: -2}
+        - {x: 31, y: 0}
+        - {x: 31, y: 30}
+        - {x: 29, y: 31}
+      - - {x: -5, y: 31}
+        - {x: -5, y: 27}
+        - {x: -3, y: 25}
+        - {x: -1, y: 25}
+        - {x: 1, y: 27}
+        - {x: 1, y: 31}
+      - - {x: 1, y: 31}
+        - {x: 1, y: 27}
+        - {x: 3, y: 25}
+        - {x: 5, y: 25}
+        - {x: 7, y: 27}
+        - {x: 7, y: 31}
+    - name: UpgradeWeapon_17
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 31}
+        - {x: -30, y: 28}
+        - {x: -30, y: 0}
+        - {x: -8, y: 0}
+        - {x: -2, y: 6}
+        - {x: -2, y: 25}
+        - {x: -5, y: 31}
+      - - {x: 4, y: 31}
+        - {x: 4, y: 8}
+        - {x: 7, y: 5}
+        - {x: 27, y: 0}
+        - {x: 31, y: 0}
+        - {x: 31, y: 31}
+      - - {x: -5, y: 31}
+        - {x: -5, y: 29}
+        - {x: -4, y: 27}
+        - {x: 6, y: 27}
+        - {x: 7, y: 29}
+        - {x: 7, y: 31}
+    - name: UpgradeWeapon_18
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 31}
+        - {x: -30, y: 2}
+        - {x: -21, y: 1}
+        - {x: -9, y: 1}
+        - {x: -2, y: 4}
+        - {x: -2, y: 31}
+      - - {x: 5, y: 31}
+        - {x: 5, y: 9}
+        - {x: 6, y: 5}
+        - {x: 14, y: 1}
+        - {x: 25, y: 1}
+        - {x: 27, y: 2}
+        - {x: 31, y: 3}
+        - {x: 31, y: 31}
+    - name: UpgradeWeapon_19
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 31}
+        - {x: -29, y: 31}
+        - {x: -30, y: 29}
+        - {x: -30, y: 6}
+        - {x: -25, y: 4}
+        - {x: -21, y: 3}
+        - {x: -9, y: 3}
+        - {x: -3, y: 8}
+        - {x: -2, y: 11}
+        - {x: -2, y: 30}
+      - - {x: 5, y: 31}
+        - {x: 5, y: 3}
+        - {x: 30, y: 3}
+        - {x: 31, y: 5}
+        - {x: 31, y: 31}
+    - name: UpgradeWeapon_20
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 31}
+        - {x: -30, y: 5}
+        - {x: -10, y: 5}
+        - {x: -10, y: 31}
+      - - {x: 31, y: 31}
+        - {x: 12, y: 31}
+        - {x: 12, y: 5}
+        - {x: 25, y: 5}
+        - {x: 25, y: 9}
+        - {x: 28, y: 7}
+        - {x: 31, y: 7}
+      - - {x: -5, y: 30}
+        - {x: -8, y: 30}
+        - {x: -9, y: 27}
+        - {x: -9, y: 12}
+        - {x: -7, y: 11}
+        - {x: -3, y: 11}
+        - {x: -2, y: 13}
+        - {x: -2, y: 29}
+      - - {x: 7, y: 30}
+        - {x: 5, y: 28}
+        - {x: 5, y: 13}
+        - {x: 7, y: 11}
+        - {x: 9, y: 11}
+        - {x: 11, y: 13}
+        - {x: 11, y: 28}
+        - {x: 9, y: 30}
+    - name: UpgradeWeapon_21
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 31}
+        - {x: -30, y: 7}
+        - {x: -10, y: 7}
+        - {x: -10, y: 31}
+      - - {x: 31, y: 31}
+        - {x: 12, y: 31}
+        - {x: 12, y: 7}
+        - {x: 25, y: 7}
+        - {x: 25, y: 11}
+        - {x: 28, y: 9}
+        - {x: 31, y: 9}
+      - - {x: -9, y: 31}
+        - {x: -9, y: 13}
+        - {x: -3, y: 13}
+        - {x: -2, y: 15}
+        - {x: -2, y: 31}
+      - - {x: 7, y: 31}
+        - {x: 5, y: 29}
+        - {x: 5, y: 15}
+        - {x: 7, y: 13}
+        - {x: 9, y: 13}
+        - {x: 11, y: 15}
+        - {x: 11, y: 29}
+        - {x: 9, y: 31}
+    - name: UpgradeWeapon_22
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 31}
+        - {x: -30, y: 13}
+        - {x: -28, y: 11}
+        - {x: -24, y: 9}
+        - {x: -12, y: 9}
+        - {x: -10, y: 10}
+        - {x: -10, y: 31}
+      - - {x: 31, y: 31}
+        - {x: 13, y: 31}
+        - {x: 13, y: 9}
+        - {x: 25, y: 9}
+        - {x: 25, y: 13}
+        - {x: 28, y: 11}
+        - {x: 31, y: 11}
+      - - {x: -9, y: 31}
+        - {x: -9, y: 17}
+        - {x: -7, y: 15}
+        - {x: -4, y: 15}
+        - {x: -2, y: 17}
+        - {x: -2, y: 31}
+      - - {x: 5, y: 31}
+        - {x: 5, y: 17}
+        - {x: 7, y: 15}
+        - {x: 9, y: 15}
+        - {x: 12, y: 18}
+        - {x: 12, y: 31}
+    - name: UpgradeWeapon_23
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 31}
+        - {x: -22, y: 30}
+        - {x: -22, y: 11}
+        - {x: -11, y: 11}
+        - {x: -10, y: 13}
+        - {x: -10, y: 31}
+      - - {x: 13, y: 31}
+        - {x: 13, y: 13}
+        - {x: 14, y: 11}
+        - {x: 25, y: 11}
+        - {x: 25, y: 31}
+      - - {x: -30, y: 31}
+        - {x: -30, y: 15}
+        - {x: -28, y: 13}
+        - {x: -25, y: 13}
+        - {x: -23, y: 15}
+        - {x: -23, y: 31}
+      - - {x: 26, y: 31}
+        - {x: 26, y: 15}
+        - {x: 28, y: 13}
+        - {x: 31, y: 13}
+        - {x: 31, y: 31}
+      - - {x: -9, y: 31}
+        - {x: -9, y: 19}
+        - {x: -7, y: 17}
+        - {x: -4, y: 17}
+        - {x: -2, y: 19}
+        - {x: -2, y: 31}
+      - - {x: 5, y: 31}
+        - {x: 5, y: 19}
+        - {x: 7, y: 17}
+        - {x: 10, y: 17}
+        - {x: 12, y: 19}
+        - {x: 12, y: 31}
+    - name: UpgradeWeapon_24
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 31}
+        - {x: -22, y: 17}
+        - {x: -20, y: 15}
+        - {x: -14, y: 13}
+        - {x: -11, y: 13}
+        - {x: -10, y: 15}
+        - {x: -10, y: 31}
+      - - {x: 13, y: 31}
+        - {x: 13, y: 14}
+        - {x: 15, y: 13}
+        - {x: 21, y: 13}
+        - {x: 24, y: 14}
+        - {x: 25, y: 17}
+        - {x: 25, y: 31}
+      - - {x: -30, y: 31}
+        - {x: -30, y: 17}
+        - {x: -28, y: 15}
+        - {x: -25, y: 15}
+        - {x: -23, y: 17}
+        - {x: -23, y: 31}
+      - - {x: 26, y: 31}
+        - {x: 26, y: 17}
+        - {x: 28, y: 15}
+        - {x: 31, y: 15}
+        - {x: 31, y: 31}
+      - - {x: -9, y: 31}
+        - {x: -9, y: 21}
+        - {x: -7, y: 19}
+        - {x: -4, y: 19}
+        - {x: -2, y: 21}
+        - {x: -2, y: 31}
+      - - {x: 5, y: 31}
+        - {x: 5, y: 21}
+        - {x: 7, y: 19}
+        - {x: 10, y: 19}
+        - {x: 12, y: 21}
+        - {x: 12, y: 31}
+    - name: UpgradeWeapon_25
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 17}
+        - {x: -19, y: 15}
+        - {x: -11, y: 15}
+        - {x: -10, y: 16}
+        - {x: -10, y: 31}
+        - {x: -22, y: 31}
+      - - {x: 13, y: 31}
+        - {x: 13, y: 17}
+        - {x: 15, y: 15}
+        - {x: 17, y: 15}
+        - {x: 19, y: 17}
+        - {x: 19, y: 31}
+      - - {x: -30, y: 31}
+        - {x: -30, y: 19}
+        - {x: -28, y: 17}
+        - {x: -25, y: 17}
+        - {x: -23, y: 19}
+        - {x: -23, y: 31}
+      - - {x: 19, y: 31}
+        - {x: 19, y: 19}
+        - {x: 21, y: 17}
+        - {x: 23, y: 17}
+        - {x: 25, y: 19}
+        - {x: 25, y: 31}
+      - - {x: 26, y: 31}
+        - {x: 26, y: 19}
+        - {x: 28, y: 17}
+        - {x: 31, y: 17}
+        - {x: 31, y: 31}
+      - - {x: -9, y: 31}
+        - {x: -9, y: 23}
+        - {x: -7, y: 21}
+        - {x: -4, y: 21}
+        - {x: -2, y: 23}
+        - {x: -2, y: 31}
+      - - {x: 5, y: 31}
+        - {x: 5, y: 23}
+        - {x: 7, y: 21}
+        - {x: 10, y: 21}
+        - {x: 12, y: 23}
+        - {x: 12, y: 31}
+    - name: UpgradeWeapon_26
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 31}
+        - {x: -22, y: 19}
+        - {x: -19, y: 17}
+        - {x: -12, y: 17}
+        - {x: -10, y: 19}
+        - {x: -10, y: 31}
+      - - {x: 13, y: 31}
+        - {x: 13, y: 18}
+        - {x: 14, y: 17}
+        - {x: 22, y: 17}
+        - {x: 25, y: 19}
+        - {x: 25, y: 31}
+      - - {x: -30, y: 31}
+        - {x: -30, y: 21}
+        - {x: -28, y: 19}
+        - {x: -25, y: 19}
+        - {x: -23, y: 21}
+        - {x: -23, y: 31}
+      - - {x: 26, y: 31}
+        - {x: 26, y: 21}
+        - {x: 28, y: 19}
+        - {x: 31, y: 19}
+        - {x: 31, y: 31}
+      - - {x: -9, y: 31}
+        - {x: -9, y: 25}
+        - {x: -7, y: 23}
+        - {x: -4, y: 23}
+        - {x: -2, y: 25}
+        - {x: -2, y: 31}
+      - - {x: 5, y: 31}
+        - {x: 5, y: 25}
+        - {x: 7, y: 23}
+        - {x: 10, y: 23}
+        - {x: 12, y: 25}
+        - {x: 12, y: 31}
+    - name: UpgradeWeapon_27
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 31}
+        - {x: -22, y: 21}
+        - {x: -19, y: 19}
+        - {x: -12, y: 19}
+        - {x: -9, y: 22}
+        - {x: -9, y: 31}
+      - - {x: 13, y: 31}
+        - {x: 13, y: 20}
+        - {x: 15, y: 19}
+        - {x: 22, y: 19}
+        - {x: 24, y: 20}
+        - {x: 25, y: 23}
+        - {x: 25, y: 31}
+      - - {x: -30, y: 31}
+        - {x: -30, y: 23}
+        - {x: -28, y: 21}
+        - {x: -25, y: 21}
+        - {x: -23, y: 23}
+        - {x: -23, y: 31}
+      - - {x: 26, y: 31}
+        - {x: 26, y: 23}
+        - {x: 28, y: 21}
+        - {x: 31, y: 21}
+        - {x: 31, y: 31}
+      - - {x: -9, y: 31}
+        - {x: -9, y: 27}
+        - {x: -7, y: 25}
+        - {x: -4, y: 25}
+        - {x: -2, y: 27}
+        - {x: -2, y: 31}
+      - - {x: 5, y: 31}
+        - {x: 5, y: 27}
+        - {x: 7, y: 25}
+        - {x: 10, y: 25}
+        - {x: 12, y: 27}
+        - {x: 12, y: 31}
+    - name: UpgradeWeapon_28
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 31}
+        - {x: -22, y: 21}
+        - {x: -10, y: 21}
+        - {x: -9, y: 23}
+        - {x: -9, y: 31}
+      - - {x: 13, y: 31}
+        - {x: 13, y: 22}
+        - {x: 15, y: 21}
+        - {x: 22, y: 21}
+        - {x: 25, y: 23}
+        - {x: 25, y: 31}
+      - - {x: -30, y: 31}
+        - {x: -30, y: 25}
+        - {x: -28, y: 23}
+        - {x: -25, y: 23}
+        - {x: -23, y: 25}
+        - {x: -23, y: 31}
+      - - {x: 26, y: 31}
+        - {x: 26, y: 25}
+        - {x: 28, y: 23}
+        - {x: 31, y: 23}
+        - {x: 31, y: 31}
+      - - {x: -8, y: 31}
+        - {x: -8, y: 29}
+        - {x: -6, y: 27}
+        - {x: -4, y: 27}
+        - {x: -2, y: 29}
+        - {x: -2, y: 31}
+      - - {x: 5, y: 31}
+        - {x: 5, y: 29}
+        - {x: 7, y: 27}
+        - {x: 10, y: 27}
+        - {x: 12, y: 29}
+        - {x: 12, y: 31}
+    - name: UpgradeWeapon_29
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 24}
+        - {x: -18, y: 23}
+        - {x: -11, y: 23}
+        - {x: -9, y: 24}
+        - {x: -9, y: 31}
+        - {x: -22, y: 31}
+        - {x: -22, y: 27}
+      - - {x: 13, y: 31}
+        - {x: 13, y: 24}
+        - {x: 15, y: 23}
+        - {x: 22, y: 23}
+        - {x: 25, y: 24}
+        - {x: 26, y: 27}
+        - {x: 26, y: 31}
+      - - {x: -30, y: 31}
+        - {x: -30, y: 27}
+        - {x: -28, y: 25}
+        - {x: -25, y: 25}
+        - {x: -23, y: 27}
+        - {x: -23, y: 31}
+      - - {x: 27, y: 31}
+        - {x: 27, y: 27}
+        - {x: 29, y: 25}
+        - {x: 31, y: 25}
+        - {x: 31, y: 31}
+    - name: UpgradeWeapon_30
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 31}
+        - {x: -22, y: 25}
+        - {x: -10, y: 25}
+        - {x: -9, y: 27}
+        - {x: -9, y: 31}
+      - - {x: 13, y: 31}
+        - {x: 13, y: 26}
+        - {x: 15, y: 25}
+        - {x: 22, y: 25}
+        - {x: 25, y: 26}
+        - {x: 26, y: 29}
+        - {x: 26, y: 31}
+      - - {x: -30, y: 31}
+        - {x: -30, y: 29}
+        - {x: -28, y: 27}
+        - {x: -25, y: 27}
+        - {x: -23, y: 29}
+        - {x: -23, y: 31}
+      - - {x: 27, y: 31}
+        - {x: 27, y: 29}
+        - {x: 29, y: 27}
+        - {x: 31, y: 27}
+        - {x: 31, y: 31}
+    - name: UpgradeWeapon_31
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 31}
+        - {x: -16, y: 29}
+        - {x: -14, y: 27}
+        - {x: -11, y: 27}
+        - {x: -9, y: 29}
+        - {x: -9, y: 31}
+      - - {x: 13, y: 31}
+        - {x: 13, y: 29}
+        - {x: 15, y: 27}
+        - {x: 18, y: 27}
+        - {x: 20, y: 29}
+        - {x: 20, y: 31}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
